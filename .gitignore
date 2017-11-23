@@ -1,5 +1,7 @@
 *.layout
 *.depend
 *.o
-XPhone/Debug
-XPhone/.settings
+Test/Debug
+Test/.settings
+
+TIM_OCActive/SW4STM32/STM32412ZG_Nucleo/Debug

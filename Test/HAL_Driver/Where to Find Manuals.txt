@@ -1,0 +1,7 @@
+Find manuals in:
+A:\Engineering\datasheets\STM32\STM32Cube_FW_F4_V1.13.0\Drivers\STM32F4xx_HAL_Driver\
+
+or, online at
+https://github.com/jensenr30/datasheets/STM32/STM32Cube_FW_F4_V1.13.0/Drivers/STM32F4xx_HAL_Driver
+
+you are looking for file "STM32F412Zx_User_Manual.chm"
